@@ -1,4 +1,11 @@
+<p align="center">
+  <img src="https://github.com/zjefersound/poc-devcontainer-geekie/assets/62676057/e0762650-287a-4a4b-aaff-799d6b815064" alt="Python in a docker container" width="300"/>
+</p>
+
 # Projeto Python com ```devcontainers```
+Projeto demonstrativo para configuração de um ambiente estável com uma versão antiga do python utilizando apenas o ambiente dockerizado.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Versões:
 ```python:3.8.12```
@@ -49,3 +56,7 @@ python main.py
 
 O servidor estará rodando localmente na porta 8000
 [Localhost](http://localhost:8000/)
+
+### Preview: 
+![image](https://github.com/zjefersound/poc-devcontainer-geekie/assets/62676057/5363c936-2a40-45bb-a01d-af43c0d73a88)
+
