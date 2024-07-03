@@ -39,13 +39,13 @@ Ao abrir a pasta irá aparecer automáticamente um modal pedindo para abrir no c
 
 Caso esta mensagem suma ou não apareça utilize o atalho:
 ```
-Ctrl+Ship+P ou Command+Shift+P
+Ctrl+Shift+P ou Command+Shift+P
 ```
 Pesquise por "Dev Containers":
 
 ![image](https://github.com/zjefersound/poc-devcontainer-geekie/assets/62676057/f2848dcb-3e02-4ae6-b557-5feb489b8203)
 
-Escolha a opção "Rebuild and reopen in container".
+Escolha a opção "Rebuild and Reopen in Container".
 
 4 - Execute o projeto: 
 
