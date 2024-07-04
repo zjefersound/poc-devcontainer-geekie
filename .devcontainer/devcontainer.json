@@ -1,12 +1,16 @@
 {
-    "name": "Python 3.8.12",
+    "name": "Dev Container com Python 3.8.12",
     "dockerFile": "Dockerfile",
-    "settings": {
-        "python.pythonPath": "/usr/local/bin/python"
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "python.pythonPath": "/usr/local/bin/python"
+            },
+            "extensions": [
+                "ms-python.python"
+            ]
+        }
     },
-    "extensions": [
-        "ms-python.python"
-    ],
     "postCreateCommand": "pip install -r requirements.txt",
     "forwardPorts": [8000],
     "remoteUser": "vscode"
