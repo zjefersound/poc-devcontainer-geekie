@@ -21,6 +21,3 @@ RUN pip install --upgrade pip
 
 # Make port 8000 available to the world outside this container
 EXPOSE 8000
-
-# Run main.py when the container launches
-CMD ["python", "main.py"]
