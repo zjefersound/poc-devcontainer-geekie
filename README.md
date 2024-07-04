@@ -51,11 +51,16 @@ Escolha a opção "Rebuild and Reopen in Container".
 
 Para rodar e testar o projeto, abra um terminal no VSCode e execute:
 ```
-python main.py
+make run
 ```
 
 O servidor estará rodando localmente na porta 8000
 [Localhost](http://localhost:8000/)
+
+Para visualizar outras opções de scripts execute:
+```
+make help
+```
 
 ### Preview: 
 ![image](https://github.com/zjefersound/poc-devcontainer-geekie/assets/62676057/5363c936-2a40-45bb-a01d-af43c0d73a88)
